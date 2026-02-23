@@ -157,7 +157,7 @@ DATABASES = {
 
 ```
 git clone <repo-url>
-cd helpdesk
+cd helpdesk_api
 ```
 
 2. Create virtual environment
